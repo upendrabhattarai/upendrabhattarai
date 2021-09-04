@@ -2,6 +2,8 @@
 
 ### Hi there 👋, I am Upendra
 
+![](https://komarev.com/ghpvc/?username=upendrabhattarai&color=blue)
+
 <!--
 **upendrabhattarai/upendrabhattarai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
