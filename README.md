@@ -2,8 +2,11 @@
 <p align="center">
 👋  Hi there! I'm Upendra 👋 
   </p>
+  @settings {
+  font-size: 50;
 <p align="center">
   "Don't let anything here, or anywhere, constrain your science to doing only what others have done!"
+  }
 </p>
 
 
