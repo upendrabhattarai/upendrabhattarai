@@ -3,10 +3,7 @@
 👋  Hi there! I'm Upendra 👋 
   </p>
 <p align="center">
-  @settings {
-  font-size: 50;
   "Don't let anything here, or anywhere, constrain your science to doing only what others have done!"
-  }
 </p>
 
 
